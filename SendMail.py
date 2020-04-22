@@ -10,11 +10,11 @@ def sentmail():
     print('Email sent!')
 
 
-gmail_user = 'zehuiyun15@gmail.com'
-gmail_password = 'YUNzehui19970215'
+gmail_user = 'xxx@gmail.com'
+gmail_password = 'xxx'
 
 sent_from = gmail_user
-to = ['zehuiyun15@gmail.com']
+to = ['xxx@gmail.com']
 subject = 'Switch IS AVAILABLE!!'
 body = 'GO GET IT NOW!!!'
 # body = test.body
